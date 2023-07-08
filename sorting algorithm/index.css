@@ -1,0 +1,22 @@
+.par{
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: aqua;
+    border: 10px solid black;
+    gap: 10px;
+    height: 500px;
+    justify-content: center;
+    
+   
+}
+.parent{
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: aqua;
+    border: 10px solid black;
+    gap: 10px;
+    height: 500px;
+    justify-content: center;
+    
+   
+}
